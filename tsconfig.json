@@ -23,6 +23,9 @@
       ],
       "@repository": [
         "repository/index"
+      ],
+      "@config": [
+        "config/index"
       ]
     }
   }
